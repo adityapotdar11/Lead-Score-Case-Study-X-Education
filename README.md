@@ -43,8 +43,8 @@ There are quite a few goals for this case study:
 
 The current repositary consist follwing files and folders
 
--   _Data folder_ - It consists of original data set and data dictionary file.
--   _Python file_ - A python jupyter file which is added with the solution to the problem statement.
--   _Summary_ - A pdf file consists with summary of explaining procedure solving the assignment and gathered learnings.
--   _PPT_ - A pdf file consists with overall approach of the analysis in a presentation.
--   _Subjective Questions_ - A pdf file filled with solutions to all the problems asked by X-Education.
+-  **Data folder** - It consists of original data set and data dictionary file.
+-  **Python file** - A python jupyter file which is added with the solution to the problem statement.
+-  **Summary** - A pdf file consists with summary of explaining procedure solving the assignment and gathered learnings.
+-  **PPT** - A pdf file consists with overall approach of the analysis in a presentation.
+-  **Subjective Questions** - A pdf file filled with solutions to all the problems asked by X-Education.
